@@ -1,4 +1,3 @@
-# about-me
 Hi 👋 My name is Umut Dinçer Yananer
 ====================================
 
